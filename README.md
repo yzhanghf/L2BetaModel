@@ -1,6 +1,10 @@
 # L2BetaModel
 
-Reference:
+## Main files:  
+ * *Fast_Newton_method_deg.m* (Newton)
+ * *Fast_gradient_deg.m* (gradient)
+
+## Reference:
 
 L-2 Regularized maximum likelihood for β-model in large and sparse networks
 
